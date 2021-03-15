@@ -6,3 +6,7 @@ This is el primero repositorio que he creado verdaderamente entendiendo para que
 # AEstatisica
 
 como adicionar cambios
+
+
+culo 
+
